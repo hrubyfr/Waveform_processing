@@ -1,4 +1,6 @@
 plots
+__pycache__
+
 *.jpn
 *.png
 *.jpeg
